@@ -17,4 +17,16 @@ Los capacitores e inductores al igual que los resistores presentan oposición al
 - Familiarizarse con el uso de instrumentos de medida.
 
 ### 3. MARCO TEÓRICO
-Los capacitores e inductores son elementos que permiten almacenar energía.
+
+Aunque capacitancia e inductancia son elementos pasivos tienen la propiedad de almacenar energía, y por tanto se dice que pueden tener condiciones iniciales para las variables de voltaje y corriente, esto en función de la energía que tengan almacenada. La capacitancia almacena la energía en un campo eléctrico mientras que la inductancia almacena la energía en un campo magnético.
+
+#### CAPACITORES
+
+Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
+
+Según Sadiku(2006):
+> Un capacitor es un elemento pasivo diseñado para almacenar energía en su campo eléctrico. En muchas aplicaciones prácticas, las placas pueden ser de láminas de aluminio,
+mientras que el dieléctrico puede ser de aire, cerámica, papel o mica.
+
+Por lo tanto podemos decir que, son elementos que retrasan el flujo de voltaje con respecto a la corriente, dentro de los circuitos eléctricos son el segundo elementos más usado luego de los resistores.
+
