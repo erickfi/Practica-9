@@ -5,4 +5,14 @@
 **Autores:** Figueroa Erick, León Jipshon,Viracucha William.
 ### 1. PLANTEAMIENTO DEL PROBLEMA
 
-El estudio de circuito eléctricos hasta el momento se ha limitado a ciruitos resistivos, es decir, ciruitos donde la energía es discipada, no obstante, a veces se requiere almacenar esta energía para usarla como una señal de activación en circuitos más complejos, es por ello que se los puede atribuir como almacenadores de energía, sin embargo, aunque ambos realicen la misma actividad, la forma en que esto ocurre es lo que los diferencia.
+El estudio de circuito eléctricos hasta el momento se ha limitado a ciruitos resistivos, es decir, ciruitos donde la energía es discipada, no obstante, a veces se requiere almacenar esta energía para usarla como una señal de activación en circuitos más complejos, es por ello que se los puede atribuir como almacenadores de energía temporales, sin embargo, aunque ambos realicen la misma actividad, la forma en que esto ocurre es lo que los diferencia.
+
+
+### 2. OBJETIVOS
+
+- Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
+- Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
+- Verificar las combinaciones serie y paralelo de bobinas y capacitores.
+- Familiarizarse con el uso de instrumentos de medida.
+
+### 3. MARCO TEÓRICO
