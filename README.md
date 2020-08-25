@@ -36,4 +36,14 @@ Por lo tanto podemos decir que, son elementos que retrasan el flujo de voltaje c
 
 Cuando una fuente de tensión _V_ se conecta al capacitor, deposita una carga positiva _q_ en una placa y una carga negativa _-q_ en la otra. Se dice que el capacitor almacena la carga eléctrica. El monto de carga almacenada, representado por _q_, es directamente proporcional a la tensión aplicada _V._
 
-      q = C V
+        q = C V
+
+Donde C, la constante de proporcionalidad, se conoce como la capacitancia del capacitor. La unidad de capacitancia es el farad (F), así llamado en honor al físico inglés Michael Faraday (1791-1867).
+
+Hay que recordar dos aspectos importantes al momento de analizar el capacitor.
+- Un capacitor representa un circuito abierto en DC.
+- En un capacitor la tensión no puede cambiar abrutamente ya que para que esto requiere una corriente infinita lo que es físicamente imposible.
+
+En un circuito el capacitor se representa con dos lineas de igual longitud en paralelo, si este tiene una flecha que lo atraviesa se dice que es un capacitor variable.
+
+![](https://github.com/erickfi/Practica-9/blob/master/Img/simbolo%20capacitor.PNG)
