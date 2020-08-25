@@ -22,6 +22,8 @@ Aunque capacitancia e inductancia son elementos pasivos tienen la propiedad de a
 
 #### CAPACITORES
 
+![](https://github.com/erickfi/Practica-9/blob/master/Img/capacitores.PNG)
+
 Un capacitor o también conocido como condensador es un dispositivo capaz de almacenar  energía a través de campos eléctricos (uno positivo y uno negativo). Este se clasifica dentro de los componentes pasivos ya que no tiene la capacidad de amplificar o cortar el flujo eléctrico.
 
 Según Sadiku(2006):
@@ -30,3 +32,8 @@ mientras que el dieléctrico puede ser de aire, cerámica, papel o mica.
 
 Por lo tanto podemos decir que, son elementos que retrasan el flujo de voltaje con respecto a la corriente, dentro de los circuitos eléctricos son el segundo elementos más usado luego de los resistores.
 
+![](https://github.com/erickfi/Practica-9/blob/master/Img/estructura%20capacitor.PNG)
+
+Cuando una fuente de tensión _V_ se conecta al capacitor, deposita una carga positiva _q_ en una placa y una carga negativa _-q_ en la otra. Se dice que el capacitor almacena la carga eléctrica. El monto de carga almacenada, representado por _q_, es directamente proporcional a la tensión aplicada _V._
+
+  q = C _V_
