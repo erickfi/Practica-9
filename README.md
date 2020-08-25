@@ -36,4 +36,4 @@ Por lo tanto podemos decir que, son elementos que retrasan el flujo de voltaje c
 
 Cuando una fuente de tensión _V_ se conecta al capacitor, deposita una carga positiva _q_ en una placa y una carga negativa _-q_ en la otra. Se dice que el capacitor almacena la carga eléctrica. El monto de carga almacenada, representado por _q_, es directamente proporcional a la tensión aplicada _V._
 
-       ***q = C V***
+      q = C V
