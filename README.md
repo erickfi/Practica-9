@@ -122,10 +122,11 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
 
 ***Tabla 1. Resultados para el circuito usando capacitores***
 
-![]()
+![](https://github.com/erickfi/Practica-9/blob/master/Img/TablaCapacitancia.png)
 
 ***Tabla 2. Resultados para el circuito usando inductores***
 
+![](https://github.com/erickfi/Practica-9/blob/master/Img/TablaInductancia.png)
 
 ### 7. Explicación de Código Fuente
 
