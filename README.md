@@ -97,34 +97,33 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
 
 ![](https://github.com/erickfi/Practica-9/blob/master/Img/diagrama%20inductor.PNG)
 
-**Medición de valores**
+**Simulación del circuito con capacitores**
 
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.1.PNG)
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.2.PNG)
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.3.PNG)
+![](https://github.com/erickfi/Practica-9/blob/master/Img/simulaci%C3%B3n%20capacitor.jpeg)
+
+**Simulación del circuito con inductores**
+
+![](https://github.com/erickfi/Practica-9/blob/master/Img/simulaci%C3%B3n%20inductor.jpeg)
 
 ### 5. LISTA DE COMPONENTES
 
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Materiales.PNG)
+| Materiales               | Cantidad   |
+| -----------------------  |----------- |
+| Generador de señales     |    1       |
+| Fuente DC                |    1       |
+| Osciloscopio             |    1       |
+| Protoboard               |    1       |
+| Multímetro               |    1       |
+| Resistencias de 100 Ω    |    1       |
+| Capacitor 10 uF          |    2       |
+| Bobina o inductor 100 mH |    2       |
 
 ### 6. TABLA DE RESULTADOS
 
 ***Tabla 1. Parámetros eléctricos del circuito***
 
-|   RL (Ω)  | Corriente  |   Voltaje  | Potencia calculada | Potencia calculada | Error |
-|:---------:|:----------:|:----------:|:------------------:|:------------------:|:-----:| 
-|           |  Medida    |   medido   | Experimentalmente  | teóricamente       |       |
-|           |   (mA)     |    (V)     |       (mW)         |        (mW)        |  (%)  |
-|   220     |   10.6     |   2.32     | 24.592             | 24.548             | 0.18  |
-|   470     |   8.98     |   4.22     | 37.895             | 37.918             | 0.06  |
-|   680     |   7.98     |   5.43     | 43.311             | 43.288             | 0.1   |
-|   820     |   7.43     |   6.09     | 45.248             | 45.216             | 0.07  |
-|   1000    |   6.82     |   6.82     | 46.512             | 46.487             | 0.05  |
-|   1500    |   5.56     |   8.33     | 46.314             | 46.296             | 0.04  |
-|   1800    |   5        |   9        | 45                 | 45                 | 0     |
-|   2200    |   4.41     |   9.71     | 42.821             | 42.82              | 0.002 |
-|   3900    |   2.94     |   11.5     | 33.81              | 33.737             | 0.216 |
-|   4700    |   2.54     |   11.9     | 30.226             | 30.379             | 0.5   |
+|   Frecuencia  | Voltaje pico  |   Voltaje  | Corriente | Error |
+|:---------:|:----------:|:----------:|:---------------- |:-----:| 
 
 
 
