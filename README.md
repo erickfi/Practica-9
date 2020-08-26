@@ -166,6 +166,9 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 
 ### 8. CONCLUSIONES
 
+> En el circuito donde se implementó los capacitores en paralelo, si la frecuencia tiende a 0 entrega valores de voltaje máximo, pero valores de corriente mínimos. Por otra parte, si implementamos las bobinas en paralelo ocurre todo lo contrario, entre más baja la frecuencia, los valores que se miden en el osciloscopio y multímetro son los valores mínimos en el caso del voltaje, y para la corriente se mide un valor máximo.
+
+> hola
 
 ### 9. RECOMENDACIONES
 
