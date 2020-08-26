@@ -87,3 +87,67 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
         usados para modificar las condiciones de un circuito, cambiar el factor de corriente, y aumentar o disminuir el voltaje
         y/o corriente, puesto que se los considera resistencias, están sujetos a las mismas reglas, se pueden encontrar en serie,
         en paralelo y más de uno en un circuito, sin embargo, la operacionalización de los mismos varía.
+
+### 4. DIAGRAMAS
+**Diagrama del circuito**
+
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Diagrama.PNG)
+
+**Medición de valores**
+
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.1.PNG)
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.2.PNG)
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Thinker%206.3.PNG)
+
+### 5. LISTA DE COMPONENTES
+
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Materiales.PNG)
+
+### 6. TABLA DE RESULTADOS
+
+***Tabla 1. Parámetros eléctricos del circuito***
+
+|   RL (Ω)  | Corriente  |   Voltaje  | Potencia calculada | Potencia calculada | Error |
+|:---------:|:----------:|:----------:|:------------------:|:------------------:|:-----:| 
+|           |  Medida    |   medido   | Experimentalmente  | teóricamente       |       |
+|           |   (mA)     |    (V)     |       (mW)         |        (mW)        |  (%)  |
+|   220     |   10.6     |   2.32     | 24.592             | 24.548             | 0.18  |
+|   470     |   8.98     |   4.22     | 37.895             | 37.918             | 0.06  |
+|   680     |   7.98     |   5.43     | 43.311             | 43.288             | 0.1   |
+|   820     |   7.43     |   6.09     | 45.248             | 45.216             | 0.07  |
+|   1000    |   6.82     |   6.82     | 46.512             | 46.487             | 0.05  |
+|   1500    |   5.56     |   8.33     | 46.314             | 46.296             | 0.04  |
+|   1800    |   5        |   9        | 45                 | 45                 | 0     |
+|   2200    |   4.41     |   9.71     | 42.821             | 42.82              | 0.002 |
+|   3900    |   2.94     |   11.5     | 33.81              | 33.737             | 0.216 |
+|   4700    |   2.54     |   11.9     | 30.226             | 30.379             | 0.5   |
+
+
+
+### 7. Explicación de Código Fuente
+
+- 1. Armar el circuito tal como se muestra en el diagrama.
+- 2. Medir la corriente y voltaje de la resistencia de carga para cada valor que adquiere esta resistencia mediante un multímetro, específicamente se debe realizar las mediciones para 220 Ω, 470 Ω, 680 Ω, 820 Ω, 1000 Ω, 1500 Ω, 1800 Ω, 2200 Ω, 3900 Ω, 4700 Ω. En total son 10 mediciones de voltaje y 10 mediciones de corriente.
+
+### 8. CONCLUSIONES
+
+- Una fuente de voltaje entrega la máxima transferencia de potencia cuando necesariamente su resistencia interna es igual a la resistencia de la carga, en este caso la resistencia de Thévenin debe ser obligadamente el mismo valor de la resistencia de la carga.
+- Las resistencias mas próximas a 1200 Ohmios como la de 1000 y 1500, entregan una potencia casi próxima a la potencia máxima, entonces podemos decir que entre mas cercano sea el valor de la resistencia interna, al valor de la resistencia de carga, la potencia tiende a su valor máximo, pero no la van a superar.
+- Para que la potencia sea máxima P= 46.875 mW, la resistencia de la carga RL debe ser igual a la de la fuente RTh, por lo tanto, RL= RTh= 1200 Ω.
+- Se cumple el Teorema de la Máxima Transferencia de Potencia, al observar que la potencia suministrada por todas las resistencias utilizadas es menor a la cálculada si RL=1200 Ω.
+- Dentro de las resistencias utilizadas se obtiene que la resistencia de 1000 Ω, es la que más se aproxima al valor de la potencia máxima, la cuál entrega una potencia de 46.487 mW.
+
+### 9. RECOMENDACIONES
+
+- Una forma de comprobar el teorema de máxima transferencia de potencia es dar valores a la resistencia de carga muy cercanos a la resistencia interna, y observar que la potencia va a estar al limite de la potencia máxima
+
+### 10. CRONOGRAMA
+
+![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Cronograma%206.PNG)
+
+### 11. REFERENCIAS
+- [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
+### 12. ANEXOS
+- [Cálculos análiticos](https://github.com/erickfi/Laboratorio-6/blob/master/Anexos/Anexos%20lab%206.pdf)
+- [Cómo funciona el circuito](https://www.youtube.com/watch?v=pdyatt-rUAg&feature=youtu.be)
+- [Cómo se implementó el circuito](https://www.youtube.com/watch?v=wW0A3P_5MHM&feature=youtu.be)
