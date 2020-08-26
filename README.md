@@ -170,7 +170,7 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 
 - La reactancia se puede obtener gracias al voltaje que se disipa en los capacitores o inductores y la corriente que pasa por estos, no importa si estos son los valores  eficaces o pico, ya que se tiene la misma proporcion entre estos.
 
-- El valor eficaz  el cual es el medido por los multímetros  son los que permiten conocer cuanta energía circula por este, y se podria hallar datos como el calor que se disipa.
+- El valor eficaz  el cual es el medido por los multímetros  son los que permiten conocer cuanta energía circula por este.
 ### 9. RECOMENDACIONES
 
 - Usar un software capaz de simular bobinas y capacitores, corriente alterna y simular un osciloscopio, para esta práctica se usó Proteus.
