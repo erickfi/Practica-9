@@ -120,12 +120,11 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
 
 ### 6. TABLA DE RESULTADOS
 
-***Tabla 1. Parámetros eléctricos del circuito***
+***Tabla 1. Resultados para el circuito usando capacitores***
 
-|   Frecuencia  | Voltaje pico  |   Voltaje  | Corriente | Error |
-|:---------:|:----------:|:----------:|:---------------- |:-----:| 
+![]()
 
-
+***Tabla 2. Resultados para el circuito usando inductores***
 
 
 ### 7. Explicación de Código Fuente
@@ -138,13 +137,19 @@ de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 - 4. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 
+### 8. PREGUNTAS
+- 1. Justifique los errores cometidos en las mediciones.
+
+        Los errores en la práctica se deben a que se realiza una comparación de los valores del voltaje obtenidos con el osciloscopio y el multímetro, por un lado el multímetro del simulador solo tiene la capacidad de presentar 3 dígitos de valor por lo que en caso de tener más decimales los redondea a 3 cifras, por otra parte se puede deber a un error en la lectura del osciloscopio, ya que para hallar el valor se da _valor de voltaje_ a cada cuadro de la pantalla de osciloscopio
+        
+- 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+- 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+- 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+- 5. ¿Qué son los valores eficaces de voltaje y corriente?
+
+
 ### 8. CONCLUSIONES
 
-- Una fuente de voltaje entrega la máxima transferencia de potencia cuando necesariamente su resistencia interna es igual a la resistencia de la carga, en este caso la resistencia de Thévenin debe ser obligadamente el mismo valor de la resistencia de la carga.
-- Las resistencias mas próximas a 1200 Ohmios como la de 1000 y 1500, entregan una potencia casi próxima a la potencia máxima, entonces podemos decir que entre mas cercano sea el valor de la resistencia interna, al valor de la resistencia de carga, la potencia tiende a su valor máximo, pero no la van a superar.
-- Para que la potencia sea máxima P= 46.875 mW, la resistencia de la carga RL debe ser igual a la de la fuente RTh, por lo tanto, RL= RTh= 1200 Ω.
-- Se cumple el Teorema de la Máxima Transferencia de Potencia, al observar que la potencia suministrada por todas las resistencias utilizadas es menor a la cálculada si RL=1200 Ω.
-- Dentro de las resistencias utilizadas se obtiene que la resistencia de 1000 Ω, es la que más se aproxima al valor de la potencia máxima, la cuál entrega una potencia de 46.487 mW.
 
 ### 9. RECOMENDACIONES
 
@@ -157,6 +162,6 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 ### 11. REFERENCIAS
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
-- [Cálculos análiticos](https://github.com/erickfi/Laboratorio-6/blob/master/Anexos/Anexos%20lab%206.pdf)
+- [Cálculos análiticos]()
 - [Cómo funciona el circuito](https://youtu.be/FitkQEedJ9s)
 - [Cómo se implementó el circuito](https://youtu.be/dFJMlqRMNd4)
