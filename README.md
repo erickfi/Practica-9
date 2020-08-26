@@ -89,9 +89,13 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
         en paralelo y más de uno en un circuito, sin embargo, la operacionalización de los mismos varía.
 
 ### 4. DIAGRAMAS
-**Diagrama del circuito**
+**Diagrama del circuito usando capacitores**
 
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Diagrama.PNG)
+![](https://github.com/erickfi/Practica-9/blob/master/Img/diagrama%20capacitor.PNG)
+
+**Diagrama del circuito usando inductores**
+
+![](https://github.com/erickfi/Practica-9/blob/master/Img/diagrama%20inductor.PNG)
 
 **Medición de valores**
 
