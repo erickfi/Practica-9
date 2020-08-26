@@ -85,4 +85,5 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
         Los inductores y capacitores dentro de un análisis de circuitos generalmente se los encuentra en corriente alterna AC,
         dentro de la cuál se trabaja con números complejos, y forman parte de la resistencia de un circuito, estos pueden ser 
         usados para modificar las condiciones de un circuito, cambiar el factor de corriente, y aumentar o disminuir el voltaje
-        y/o corriente
+        y/o corriente, puesto que se los considera resistencias, están sujetos a las mismas reglas, se pueden encontrar en serie,
+        en paralelo y más de uno en un circuito, sin embargo, la operacionalización de los mismos varía.
