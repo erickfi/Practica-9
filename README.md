@@ -166,9 +166,12 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 
 ### 8. CONCLUSIONES
 
-> En el circuito donde se implementó los capacitores en paralelo, si la frecuencia tiende a 0 entrega valores de voltaje máximo, pero valores de corriente mínimos. Por otra parte, si implementamos las bobinas en paralelo ocurre todo lo contrario, entre más baja la frecuencia, los valores que se miden en el osciloscopio y multímetro son los valores mínimos en el caso del voltaje, y para la corriente se mide un valor máximo.
+- En el circuito donde se implementó los capacitores en paralelo, si la frecuencia tiende a 0 entrega valores de voltaje máximo, pero valores de corriente mínimos. Por otra parte, si implementamos las bobinas en paralelo ocurre todo lo contrario, entre más baja la frecuencia, los valores que se miden en el osciloscopio y multímetro son los valores mínimos en el caso del voltaje, y para la corriente se mide un valor máximo.
 
-> hola
+- La impedancia de un capacitor disminuye a medida que la frecuencia de la corriente alterna aumenta, siendo que cuando es 0 actúa como circuito abierto y no permite el paso de la corriente, y en altas frecuencias como 1000 hz permite paso de 70.5 mA por lo que tiende a ser un corto circuito entre más alta sea la frecuencia.
+
+- La impedancia de un inductor cuando se está en corriente continua es nula, por lo que sería un corto circuito y se tiene una corriente de 100mA correspondiente a la causada por la resistencia, si se compara esta con la corriente obtenida a 1000hz que es 21.2 Ma se puede verificar que esta impedancia aumenta conforme aumenta la frecuencia de la corriente por lo que con atlas frecuencias tiende actuar como un circuito abierto.
+
 
 ### 9. RECOMENDACIONES
 
