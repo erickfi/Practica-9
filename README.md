@@ -140,43 +140,28 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 ### 8. PREGUNTAS
 - 1. Justifique los errores cometidos en las mediciones.
 
-        Los errores en la práctica se deben a que se realiza una comparación de los valores del voltaje obtenidos 
-        con el osciloscopio y el multímetro, por un lado el multímetro del simulador solo tiene la capacidad de 
-        presentar 3 dígitos de valor por lo que en caso de tener más decimales los redondea a 3 cifras, por otra
-        parte se puede deber a un error en la lectura del osciloscopio, ya que para hallar el valor se da
-        _valor de voltaje_ a cada cuadro de la pantalla de osciloscopio
+> Los errores en la práctica se deben a que se realiza una comparación de los valores del voltaje obtenidos con el osciloscopio y el multímetro, por un lado el multímetro del simulador solo tiene la capacidad de presentar 3 dígitos de valor por lo que en caso de tener más decimales los redondea a 3 cifras, por otra parte se puede deber a un error en la lectura del osciloscopio, ya que para hallar el valor se da  _valor de voltaje_ a cada cuadro de la pantalla de osciloscopio 
         
 - 2. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-         Una bobina ideal en corriente continua se comporta como un cortocircuito, es decir sería un conductor ideal,
-         ya que al ser la corriente constante, no hay autoinducción de ninguna FEM, Fuerza electromotriz, por otro 
-         lado, un capacitor en corriente continua se comporta como un circuito abierto ya que no hay una variación 
-         en el flujo de corriente para generar un campo eléctrico capaz de permitir la interacción entre las placas.
+> Una bobina ideal en corriente continua se comporta como un cortocircuito, es decir sería un conductor ideal, ya que al ser la corriente constante, no hay autoinducción de ninguna FEM, Fuerza electromotriz, por otro lado, un capacitor en corriente continua se comporta como un circuito abierto ya que no hay una variación en el flujo de corriente para generar un campo eléctrico capaz de permitir la interacción entre las placas.
 
 - 3. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-        En un bobina el capacitor ya no se comporta como un circuito abierto, ya que hay una variación en el flujo de 
-        la corriente, entonces se genera un campo eléctrico que permite que la corriente fluya, sin embargo, presenta 
-        una oposición al avance del voltaje, por lo que el valor que presenta un osciloscopio está desfasado 90°
-        respecto a la corriente, por otro lado, la bobina como la resistencia se opone al flujo de la corriente,
-        pero a diferencia de esta, el valor de esta oposición se llama reactancia inductiva, por lo tanto se dice 
-        que el voltaje está adelantado.
+> En un bobina el capacitor ya no se comporta como un circuito abierto, ya que hay una variación en el flujo de la corriente, entonces se genera un campo eléctrico que permite que la corriente fluya, sin embargo, presenta una oposición al avance del voltaje, por lo que el valor que presenta un osciloscopio está desfasado 90° respecto a la corriente, por otro lado, la bobina como la resistencia se opone al flujo de la corriente, pero a diferencia de esta, el valor de esta oposición se llama reactancia inductiva, por lo tanto se dice que el voltaje está adelantado.
 
 
 - 4. ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-        Los valores van a variar, en el caso de los capacitores el voltaje será inversamente proporcional, mientras que
-        para la corriente será directamente proporcional, al cambio en el valor de la capacitancia.
+> Los valores van a variar, en el caso de los capacitores el voltaje será inversamente proporcional, mientras que para la corriente será directamente proporcional, al cambio en el valor de la capacitancia.
 
 > Para los inductores, tanto el voltaje como la corriente serán directamente proporcional al cambio de de la inductancia.
 
-        No obstante hay que tener en cuenta que al hablar de elementos conectados en paralelo debemos sumár los valores, sin 
-        embargo, ya que sus valores individuales disminuyen, la suma de sus valores también lo hará
+> No obstante hay que tener en cuenta que al hablar de elementos conectados en paralelo debemos sumár los valores, sin embargo, ya que sus valores individuales disminuyen, la suma de sus valores también lo hará
         
 - 5. ¿Qué son los valores eficaces de voltaje y corriente?
 
-        Son los valores que usan los equipos conectados, los cuáles se miden directamente con un multímetro, en caso de obtenerlos 
-        con un osciloscopio estos tendrán un factor de conversión igual a la raiz cuadrada de dos.
+> Son los valores que usan los equipos conectados, los cuáles se miden directamente con un multímetro, en caso de obtenerlos con un osciloscopio estos tendrán un factor de conversión igual a la raiz cuadrada de dos.
 
 ### 8. CONCLUSIONES
 
