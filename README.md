@@ -127,10 +127,16 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
 
 
 
+
 ### 7. Explicación de Código Fuente
 
 - 1. Armar el circuito tal como se muestra en el diagrama.
-- 2. Medir la corriente y voltaje de la resistencia de carga para cada valor que adquiere esta resistencia mediante un multímetro, específicamente se debe realizar las mediciones para 220 Ω, 470 Ω, 680 Ω, 820 Ω, 1000 Ω, 1500 Ω, 1800 Ω, 2200 Ω, 3900 Ω, 4700 Ω. En total son 10 mediciones de voltaje y 10 mediciones de corriente.
+- 2. Utilice el osciloscopio para observar el voltaje 𝑉𝑜 variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los valores pico de las ondas observadas.
+- 3. Utilice un multímetro para medir el voltaje 𝑉𝑜 variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
+- 4. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resultados.
 
 ### 8. CONCLUSIONES
 
@@ -142,15 +148,15 @@ En un diagrama de un circuito un inductor se puede representar de las siguientes
 
 ### 9. RECOMENDACIONES
 
-- Una forma de comprobar el teorema de máxima transferencia de potencia es dar valores a la resistencia de carga muy cercanos a la resistencia interna, y observar que la potencia va a estar al limite de la potencia máxima
+- Usar un software capaz de simular bobinas y capacitores, corriente alterna y simular un osciloscopio, para esta práctica se usó Proteus.
 
 ### 10. CRONOGRAMA
 
-![](https://github.com/erickfi/Laboratorio-6/blob/master/Img/Cronograma%206.PNG)
+![](https://github.com/erickfi/Practica-9/blob/master/Img/Crongrama.PNG)
 
 ### 11. REFERENCIAS
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
 - [Cálculos análiticos](https://github.com/erickfi/Laboratorio-6/blob/master/Anexos/Anexos%20lab%206.pdf)
-- [Cómo funciona el circuito](https://www.youtube.com/watch?v=pdyatt-rUAg&feature=youtu.be)
-- [Cómo se implementó el circuito](https://www.youtube.com/watch?v=wW0A3P_5MHM&feature=youtu.be)
+- [Cómo funciona el circuito](https://youtu.be/FitkQEedJ9s)
+- [Cómo se implementó el circuito](https://youtu.be/dFJMlqRMNd4)
