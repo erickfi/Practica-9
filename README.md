@@ -50,5 +50,7 @@ En un circuito el capacitor se representa con dos lineas de igual longitud en pa
 
 #### Inductores
 
+![](https://github.com/erickfi/Practica-9/blob/master/Img/inductores.PNG)
+
 También llamados bobinas, la Inductancia es un elemento pasivo de dos terminales que almacena energía en un campo magnético. De acuerdo a la ley de Faraday la variación de corriente en el tiempo en un conductor induce una caída de voltaje en el mismo. De acuerdo a las ecuaciones de Maxwell una variación de la corriente en el conductor produce
 un campo magnético variable, que a su vez produce un campo eléctrico variable y por tanto se genera una caída de voltaje variable en el tiempo. 
