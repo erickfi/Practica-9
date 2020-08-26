@@ -54,3 +54,35 @@ En un circuito el capacitor se representa con dos lineas de igual longitud en pa
 
 También llamados bobinas, la Inductancia es un elemento pasivo de dos terminales que almacena energía en un campo magnético. De acuerdo a la ley de Faraday la variación de corriente en el tiempo en un conductor induce una caída de voltaje en el mismo. De acuerdo a las ecuaciones de Maxwell una variación de la corriente en el conductor produce
 un campo magnético variable, que a su vez produce un campo eléctrico variable y por tanto se genera una caída de voltaje variable en el tiempo. 
+
+![](https://github.com/erickfi/Practica-9/blob/master/Img/estructura%20inductor.PNG)
+
+Un inductor es un elemento pasivo diseñado para almacenar energía en su campo magnético. Básicamente, todo inductor consiste en un arrollamiento de hilo conductor.  La inductancia resultante es directamente proporcional al número y diámetro de las espiras y a la permeabilidad del interior del arrollamiento, y es inversamente proporcional a la longitud de la bobina, por lo que, todos los conductores de corriente eléctrica tienen propiedades inductivas y pueden considerarse inductores. Pero para aumentar el efecto inductivo, un inductor práctico suele formarse en una bobina cilíndrica con muchas vueltas de alambre conductor.
+
+Sadiku (2006) describe a un inductor como:
+
+> Un inductor consta de una bobina de alambre conductor.
+
+Si se permite que pase corriente por un inductor, se descubre que la tensión en el inductor es directamente proporcional a la velocidad de cambio de la transformación de la corriente.
+
+        V=L di/dt
+        
+donde L es la constante de proporcionalidad, llamada inductancia del inductor.
+
+La inductancia es la propiedad por la cual un inductor presenta oposición al cambio de la corriente que fluye por él, medida en henrys (H), la unidad de inductancia es el henry (H), así llamado en honor al inventor estadounidense Joseph Henry (1797-1878). La inductancia de un inductor depende de sus dimensiones y composición física. Las fórmulas para calcular la inductancia de inductores de diferentes formas se derivan de la teoría electromagnética y pueden encontrarse en [manuales estándar de ingeniería eléctrica.](https://www.casadellibro.com/libro-manual-de-ingenieria-electrica-2-tomos/9789701008713/509358)
+
+Hay otras consideraciones a tomar en cuenta en los inductores.
+- inductores es que se oponen a los cambios bruscos de la corriente que circula por ellas. Esto significa que a la hora de modificar la corriente que circula por ellos esta intentará mantener su condición anterior.
+- Cuando este componente es conectado a una fuente de corriente alterna y causa un desfase entre el voltaje que se le aplica y la corriente que circula por ella.
+- La bobina o inductor es un elemento que reacciona contra los cambios
+en la corriente a través de él, generando un voltaje que se opone al voltaje aplicado y es proporcional al cambio de la corriente.
+
+En un diagrama de un circuito un inductor se puede representar de las siguientes formas.
+
+![](https://github.com/erickfi/Practica-9/blob/master/Img/simbolo%20inductor.PNG)
+
+
+        Los inductores y capacitores dentro de un análisis de circuitos generalmente se los encuentra en corriente alterna AC,
+        dentro de la cuál se trabaja con números complejos, y forman parte de la resistencia de un circuito, estos pueden ser 
+        usados para modificar las condiciones de un circuito, cambiar el factor de corriente, y aumentar o disminuir el voltaje
+        y/o corriente
