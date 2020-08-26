@@ -178,6 +178,6 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 ### 11. REFERENCIAS
 - [1] M. A. Sadiku.Fundamentos de circuitos eléctricos. Mc Graw Hill, third edition, 2006
 ### 12. ANEXOS
-- [Cálculos análiticos]()
+- [Cálculos análiticos](https://github.com/erickfi/Practica-9/blob/master/Anexos/C%C3%A1lculos%20Anal%C3%ADticos.pdf)
 - [Cómo funciona el circuito](https://youtu.be/FitkQEedJ9s)
 - [Cómo se implementó el circuito](https://youtu.be/dFJMlqRMNd4)
